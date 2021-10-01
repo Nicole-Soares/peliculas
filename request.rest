@@ -1,0 +1,4 @@
+@token = 1f500f7351c150b445caec0c7192117f
+
+
+GET  https://api.themoviedb.org/3/movie/now_playing?api_key={{token}} HTTP/1.1
